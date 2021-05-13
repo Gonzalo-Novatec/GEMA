@@ -2,4 +2,6 @@
 
 <html>Ejemplo 1<html>
 
+<nav>Ahora tengo una barra de navegación</nav>
+
 php>
